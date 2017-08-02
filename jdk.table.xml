@@ -1,0 +1,421 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.12 (C:\Python27\ArcGIS10.4\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="C:\Python27\ArcGIS10.4\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/Lib/site-packages" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.4/bin" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.4/arcpy" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.4/ArcToolbox/Scripts" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1506250101" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at C:\_venvs\arcgis_dev" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="C:\_venvs\arcgis_dev\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/_venvs/arcgis_dev/Lib" />
+            <root type="simple" url="file://C:/_venvs/arcgis_dev/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/Lib/lib-tk" />
+            <root type="simple" url="file://C:/_venvs/arcgis_dev" />
+            <root type="simple" url="file://C:/_venvs/arcgis_dev/Lib/site-packages" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.4/arcpy" />
+            <root type="simple" url="file://C:/Windows/System32" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.4/bin" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/Lib/site-packages" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.4/ArcToolbox/Scripts" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1227160455" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 (C:\_venvs\anaconda3\envs\gisenv\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="C:\_venvs\anaconda3\envs\gisenv\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/_venvs/anaconda3/envs/gisenv/DLLs" />
+            <root type="simple" url="file://C:/_venvs/anaconda3/envs/gisenv/Lib" />
+            <root type="simple" url="file://C:/_venvs/anaconda3/envs/gisenv" />
+            <root type="simple" url="file://C:/_venvs/anaconda3/envs/gisenv/Lib/site-packages" />
+            <root type="simple" url="jar://C:/_venvs/anaconda3/envs/gisenv/Lib/site-packages/cycler-0.10.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1040017099" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at C:\_venvs\sharepoint" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="C:\_venvs\sharepoint\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/_venvs/sharepoint/Lib" />
+            <root type="simple" url="file://C:/_venvs/sharepoint/Scripts" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/DLLs" />
+            <root type="simple" url="file://C:/_venvs/sharepoint" />
+            <root type="simple" url="file://C:/_venvs/sharepoint/Lib/site-packages" />
+            <root type="simple" url="file://C:/_venvs/sharepoint/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/_venvs/sharepoint/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/_venvs/sharepoint/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://C:/_venvs/sharepoint/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1264222475" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/_dev/python/Sharepoint Testing" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at C:\_venvs\check_nfhl" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="C:\_venvs\check_nfhl\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/_venvs/check_nfhl/Lib" />
+            <root type="simple" url="file://C:/_venvs/check_nfhl/Scripts" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/DLLs" />
+            <root type="simple" url="file://C:/_venvs/check_nfhl" />
+            <root type="simple" url="file://C:/_venvs/check_nfhl/Lib/site-packages" />
+            <root type="simple" url="file://C:/_venvs/check_nfhl/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/_venvs/check_nfhl/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/_venvs/check_nfhl/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://C:/_venvs/check_nfhl/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1988407625" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/_dev/python/Check NFHL Availability" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at C:\_venvs\sharepoint2-7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="C:\_venvs\sharepoint2-7\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/_venvs/sharepoint2-7/Lib" />
+            <root type="simple" url="file://C:/_venvs/sharepoint2-7/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/Lib/lib-tk" />
+            <root type="simple" url="file://C:/_venvs/sharepoint2-7" />
+            <root type="simple" url="file://C:/_venvs/sharepoint2-7/Lib/site-packages" />
+            <root type="simple" url="file://C:/_venvs/sharepoint2-7/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/_venvs/sharepoint2-7/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/_venvs/sharepoint2-7/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1946567653" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/_dev/python/Sharepoint" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at C:\_venvs\check_nfhl_2-7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="C:\_venvs\check_nfhl_2-7\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/_venvs/check_nfhl_2-7/Lib" />
+            <root type="simple" url="file://C:/_venvs/check_nfhl_2-7/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/Lib/lib-tk" />
+            <root type="simple" url="file://C:/_venvs/check_nfhl_2-7" />
+            <root type="simple" url="file://C:/_venvs/check_nfhl_2-7/Lib/site-packages" />
+            <root type="simple" url="file://C:/_venvs/check_nfhl_2-7/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/_venvs/check_nfhl_2-7/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/_venvs/check_nfhl_2-7/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1819256820" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/_dev/python/Check NFHL Availability" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at C:\_venvs\daily_setup" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="C:\_venvs\daily_setup\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/_venvs/daily_setup/Lib" />
+            <root type="simple" url="file://C:/_venvs/daily_setup/Scripts" />
+            <root type="simple" url="file://C:/Python35-32/Lib" />
+            <root type="simple" url="file://C:/Python35-32/DLLs" />
+            <root type="simple" url="file://C:/_venvs/daily_setup" />
+            <root type="simple" url="file://C:/_venvs/daily_setup/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/982167737" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at C:\_venvs\upload_lomrs" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="C:\_venvs\upload_lomrs\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/_venvs/upload_lomrs/Lib" />
+            <root type="simple" url="file://C:/_venvs/upload_lomrs/Scripts" />
+            <root type="simple" url="file://C:/Python35-32/Lib" />
+            <root type="simple" url="file://C:/Python35-32/DLLs" />
+            <root type="simple" url="file://C:/_venvs/upload_lomrs" />
+            <root type="simple" url="file://C:/_venvs/upload_lomrs/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-199423025" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/_dev/python/Upload Cognizant LOMRs" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at C:\_venvs\fs_finalizer" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="C:\_venvs\fs_finalizer\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/_venvs/fs_finalizer/Lib" />
+            <root type="simple" url="file://C:/_venvs/fs_finalizer/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/Lib/lib-tk" />
+            <root type="simple" url="file://C:/_venvs/fs_finalizer" />
+            <root type="simple" url="file://C:/_venvs/fs_finalizer/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1648858662" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/_dev/python/Flood Surface Finalizer" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at C:\_venvs\training3-5" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="C:\_venvs\training3-5\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/_venvs/training3-5/Lib" />
+            <root type="simple" url="file://C:/_venvs/training3-5/Scripts" />
+            <root type="simple" url="file://C:/Python35-32/Lib" />
+            <root type="simple" url="file://C:/Python35-32/DLLs" />
+            <root type="simple" url="file://C:/_venvs/training3-5" />
+            <root type="simple" url="file://C:/_venvs/training3-5/Lib/site-packages" />
+            <root type="simple" url="file://C:/_venvs/training3-5/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/_venvs/training3-5/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/_venvs/training3-5/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://C:/_venvs/training3-5/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/2043292495" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/_dev/python/Training" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at C:\_venvs\flask_training" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="C:\_venvs\flask_training\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/_venvs/flask_training/Lib" />
+            <root type="simple" url="file://C:/_venvs/flask_training/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.4/Lib/lib-tk" />
+            <root type="simple" url="file://C:/_venvs/flask_training" />
+            <root type="simple" url="file://C:/_venvs/flask_training/Lib/site-packages" />
+            <root type="simple" url="file://C:/_dev/python/Flask-HelloWorld" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1567538858" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at C:\_venvs\pdf_download" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="C:\_venvs\pdf_download\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/_venvs/pdf_download/Lib" />
+            <root type="simple" url="file://C:/_venvs/pdf_download/Scripts" />
+            <root type="simple" url="file://C:/Python35-32/Lib" />
+            <root type="simple" url="file://C:/Python35-32/DLLs" />
+            <root type="simple" url="file://C:/_venvs/pdf_download" />
+            <root type="simple" url="file://C:/_venvs/pdf_download/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1630547175" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/_dev/python/Get PDFs from MSC" />
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,199 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyClassicStyleClassInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="8080" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" />
+    <option name="TIMEOUT" value="10" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Python27\ArcGIS10.4\python.exe" value="false" />
+        <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="C:\Python35-32\python.exe" value="true" />
+        <entry key="C:\Python36-1\python.exe" value="true" />
+        <entry key="C:\Users\jbaughman\Imaging\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jbaughman\India Processing 3-5\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jbaughman\Virtual 3.5\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jbaughman\Virtual27-32\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\jbaughman\check_nfhl\Scripts\python.exe" value="true" />
+        <entry key="C:\_Programming\Projects\python\Virtual27\Scripts\python.exe" value="false" />
+        <entry key="C:\_Programming\Virtual Environments\Base Py36\Scripts\python.exe" value="false" />
+        <entry key="C:\_Programming\Virtual Environments\Data Science 3-5-2\Scripts\python.exe" value="true" />
+        <entry key="C:\_Programming\Virtual Environments\Virtual27-32\Scripts\python.exe" value="true" />
+        <entry key="C:\_Programming\Virtual Environments\py36test\Scripts\python.exe" value="false" />
+        <entry key="C:\_venv\py35practice\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\Flood Surface Finalizer\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\Imaging27\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\India Processing 3-5\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\India Processing\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\arcgis_dev\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\check_nfhl\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\check_nfhl_2-7\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\check_nfhl_base\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\copy_lomrs\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\daily_setup\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\flask_training\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\fs_finalizer\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\get_pdf\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\india3-5\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\pdf_download\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\sharepoint2-7\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\sharepoint\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\training3-5\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\upload_lomrs\Scripts\python.exe" value="true" />
+        <entry key="C:\check_nfhl_27\Scripts\python.exe" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Python27\ArcGIS10.4\python.exe" value="true" />
+        <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="C:\Python35-32\python.exe" value="false" />
+        <entry key="C:\Users\jbaughman\Imaging\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jbaughman\India Processing 3-5\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jbaughman\Virtual 3.5\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jbaughman\Virtual27-32\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jbaughman\check_nfhl\Scripts\python.exe" value="false" />
+        <entry key="C:\_Programming\Projects\python\Virtual27\Scripts\python.exe" value="false" />
+        <entry key="C:\_Programming\Virtual Environments\Base Py36\Scripts\python.exe" value="false" />
+        <entry key="C:\_Programming\Virtual Environments\Data Science 3-5-2\Scripts\python.exe" value="false" />
+        <entry key="C:\_Programming\Virtual Environments\Virtual27-32\Scripts\python.exe" value="true" />
+        <entry key="C:\_Programming\Virtual Environments\py36test\Scripts\python.exe" value="false" />
+        <entry key="C:\_venv\py35practice\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\Imaging27\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\India Processing 3-5\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\India Processing\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\arcgis_dev\Scripts\python.exe" value="true" />
+        <entry key="C:\_venvs\check_nfhl\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\check_nfhl_2-7\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\check_nfhl_base\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\copy_lomrs\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\daily_setup\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\flask_training\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\fs_finalizer\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\get_pdf\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\india3-5\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\pdf_download\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\sharepoint2-7\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\sharepoint\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\training3-5\Scripts\python.exe" value="false" />
+        <entry key="C:\_venvs\upload_lomrs\Scripts\python.exe" value="false" />
+        <entry key="C:\check_nfhl_27\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="C:\Python27\ArcGIS10.4\python.exe" value="false" />
+        <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="C:\Python35-32\python.exe" value="false" />
+        <entry key="C:\Users\jbaughman\Virtual 3.5\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jbaughman\Virtual27-32\Scripts\python.exe" value="false" />
+        <entry key="C:\_Programming\Projects\python\Virtual27\Scripts\python.exe" value="false" />
+        <entry key="C:\_Programming\Virtual Environments\Virtual27-32\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="PythonDocumentationMap">
+    <option name="entries">
+      <list>
+        <Entry>
+          <option name="prefix" value="PyQt4" />
+          <option name="urlPattern" value="http://www.riverbankcomputing.co.uk/static/Docs/PyQt4/html/{class.name.lower}.html#{function.name}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="PySide" />
+          <option name="urlPattern" value="http://pyside.github.io/docs/pyside/{module.name.slashes}/{class.name}.html#{module.name}.{element.qname}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="gtk" />
+          <option name="urlPattern" value="http://library.gnome.org/devel/pygtk/stable/class-gtk{class.name.lower}.html#method-gtk{class.name.lower}--{function.name.dashes}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="wx" />
+          <option name="urlPattern" value="http://www.wxpython.org/docs/api/{module.name}.{class.name}-class.html#{function.name}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="numpy" />
+          <option name="urlPattern" value="http://docs.scipy.org/doc/numpy/reference/{}generated/{module.name}.{element.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="scipy" />
+          <option name="urlPattern" value="http://docs.scipy.org/doc/scipy/reference/{}generated/{module.name}.{element.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="kivy" />
+          <option name="urlPattern" value="http://kivy.org/docs/api-{module.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="pytest" />
+          <option name="urlPattern" value="https://pytest.org/latest/contents.html" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+</application>

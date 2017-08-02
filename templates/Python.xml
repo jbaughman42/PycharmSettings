@@ -1,0 +1,13 @@
+<templateSet group="Python">
+  <template name="tkwin" value="class $class$(ttk.Frame):&#10;    &quot;&quot;&quot;$cls_doc$&quot;&quot;&quot;&#10;    def __init__(self, master):&#10;        &quot;&quot;&quot;Constructor for $class$&quot;&quot;&quot;&#10;        ttk.Frame.__init__(self, master, width=$width$, height=$height$)&#10;        self.master.title($title$)&#10;&#10;        # Style definition -- use Win7/Vista&#10;        self.style = ttk.Style()&#10;        self.style.theme_use('vista')&#10;        &#10;        # Allow size specification to take effect&#10;        self.pack_propagate(0)&#10;    &#10;        # Flexible pack layout manager&#10;        self.pack()&#10;&#10;    def run(self):&#10;        '''Run the app'''&#10;        self.mainloop()&#10;&#10;app = $class$(tk.Tk())&#10;app.run()        &#10;        &#10;        $END$" description="tkinter window framework" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cls_doc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="width" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="height" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="false" />
+    </context>
+  </template>
+</templateSet>

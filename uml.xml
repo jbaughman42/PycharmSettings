@@ -1,0 +1,10 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="Angular-ui-router" categories="States;Views;Templates;TemplatePlaceholders;TopLevelTemplate" />
+        <entry id="Python" categories="Methods;Inner Classes;Fields" />
+      </map>
+    </option>
+  </component>
+</application>
