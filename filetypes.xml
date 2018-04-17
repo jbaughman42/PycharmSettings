@@ -4,13 +4,12 @@
     <extensionMap>
       <mapping pattern=".coveragerc." type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern="LOAD_20170705_151906.txt" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping pattern="LOAD_20170705_151906.txt" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="rot" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="spec" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
