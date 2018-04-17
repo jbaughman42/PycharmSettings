@@ -10,6 +10,7 @@
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="100" />
     <option name="WRAP_LONG_LINES" value="true" />
     <indentOptions>
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
