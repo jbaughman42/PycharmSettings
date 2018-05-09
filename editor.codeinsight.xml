@@ -3,6 +3,7 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="REFORMAT_ON_PASTE" value="4" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
