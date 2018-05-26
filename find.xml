@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Partial Clipper'" />
-    <option name="defaultScopeName" value="Project 'Partial Clipper'" />
+    <option name="customScope" value="File '...\change_detection\user_interface\presenter.py [Change Detection]'" />
+    <option name="defaultScopeName" value="File '...\change_detection\user_interface\presenter.py [Change Detection]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Partial Clipper'" />
+    <option name="SEARCH_SCOPE" value="File '...\change_detection\user_interface\presenter.py [Change Detection]'" />
   </component>
 </application>
