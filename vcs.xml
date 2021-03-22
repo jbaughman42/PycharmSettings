@@ -14,11 +14,12 @@
           <option name="url" value="https://github.com/jbaughman42/classic_cs_probs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/TheIronicCurtain/vaccine_appointments" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\_dev\python\Training" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+    <option name="cloneParentDir" value="C:\_dev\python" />
   </component>
 </application>
