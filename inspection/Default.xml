@@ -23,7 +23,15 @@
   <inspection_tool class="CssOverwrittenProperties" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CssRedundantUnit" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CssUnitlessNumber" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="CssUnknownProperty" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="CssUnknownProperty" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="myCustomPropertiesEnabled" value="false" />
+    <option name="myIgnoreVendorSpecificProperties" value="false" />
+    <option name="myCustomPropertiesList">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+  </inspection_tool>
   <inspection_tool class="CssUnknownTarget" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CssUnresolvedClass" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CssUnresolvedCustomProperty" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -91,7 +99,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="46">
+        <list size="47">
           <item index="0" class="java.lang.String" itemvalue="altgraph" />
           <item index="1" class="java.lang.String" itemvalue="PyInstaller" />
           <item index="2" class="java.lang.String" itemvalue="arrow" />
@@ -138,6 +146,7 @@
           <item index="43" class="java.lang.String" itemvalue="jinja2-time" />
           <item index="44" class="java.lang.String" itemvalue="idna" />
           <item index="45" class="java.lang.String" itemvalue="openpyxl" />
+          <item index="46" class="java.lang.String" itemvalue="astor" />
         </list>
       </value>
     </option>
