@@ -379,7 +379,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="667ef2" />
+        <option name="FOREGROUND" value="5c75e7" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -394,7 +394,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="f34aff" />
+        <option name="FOREGROUND" value="71ff4a" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
