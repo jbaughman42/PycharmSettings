@@ -9,7 +9,7 @@
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="Hasklig" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="Light" />
     <option name="FONT_BOLD_SUB_FAMILY" value="Semibold" />
@@ -35,9 +35,9 @@
     </filter>
     <filter name="In-Progress">
       <pattern index="1" />
-      <pattern index="5" />
-      <pattern index="3" />
       <pattern index="0" />
+      <pattern index="3" />
+      <pattern index="5" />
     </filter>
     <filter name="Bugfix">
       <pattern index="3" />
